@@ -9,7 +9,7 @@ public abstract class Aplicant{
 	protected int punctaj;
 	protected int nr_proiecte;
 	protected String[] denumireProiect;
-	protected static int punctajAcceptare=20;
+	protected static int punctajAcceptare=80;
 	
 	
 	public String getNume() {
