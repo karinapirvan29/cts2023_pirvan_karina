@@ -1,0 +1,6 @@
+6. Pentru verificarea unei persoane atunci cand intra pe stadion un operator ii cere clientului
+buletinul ca sa verifice daca biletul este pe numele sau, dupa care verifica daca acea persoana este
+cautata de politie, in cadrul unei alte aplicatii, apoi trebuie sa verifice daca persoana respectiva a
+avut antecedente pe alte stadioane. Managerul stadionului doreste sa simplifice acest proces, iar
+operatorul sa furnizeze intr-un singur loc seria de buletin si codul de bilet, iar toate verificarile sa
+fie realizate acolo. Sa se implementeze acest modul

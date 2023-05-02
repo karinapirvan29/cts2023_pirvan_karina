@@ -11,6 +11,7 @@ public class Main {
 
 		AbstractPrototype client = clientPrototye.createCopy();
 
+		System.out.println(clientPrototye.toString());
 		System.out.println(client.toString());
 	}
 
