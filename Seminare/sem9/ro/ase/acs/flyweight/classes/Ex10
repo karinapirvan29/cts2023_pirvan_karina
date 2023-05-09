@@ -1,0 +1,7 @@
+restaurant - ex 10
+Pentru fiecare rezervare trebuie sa se retina informatii cu privire la clientul restaurantului
+precum: nume, numar de telefon, adresa de mail, etc, precum si informatiile despre masa rezervata:
+numar masa, numar persoane, ora rezervare, etc. Astfel, daca un client realizeaza mai multe
+rezervari, la fiecare rezervare, informatiile despre client sunt aceleasi si se repeta, ocupand foarte
+multa memorie. Sa se implementeze modulul de memorare al rezervarilor astfel incat sa nu ocupe
+memorie foarte multa.

@@ -12,5 +12,6 @@
 	<classpathentry kind="src" path="Sem6Builder"/>
 	<classpathentry kind="src" path="sem7AdapterAndDecorator"/>
 	<classpathentry kind="src" path="sem8Proxy"/>
+	<classpathentry kind="src" path="sem9"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

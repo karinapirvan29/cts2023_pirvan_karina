@@ -1,0 +1,4 @@
+ex 12
+Restaurantul doreste sa anunte clientii fideli ori de cate ori apar noi oferte. Astfel se doreste
+implementarea unui modul care atunci cand se realizeaza o oferta de pret sau se introduce un nou
+meniu sa se trimita notificari tuturor clientilor abonati la notificarile restaurantului.
