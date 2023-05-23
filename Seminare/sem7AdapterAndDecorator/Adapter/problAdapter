@@ -1,0 +1,5 @@
+Banca achizitioneaza un framework pentru oferirea de credite de leasing,
+ insa clasele din acest framework nu sunt asemanatoare cu clasele utilizate 
+ de aplicatia existenta. Se cere echipei IT sa creeze un modul care sa permita 
+tilizarea claselor din framework-ul nou achizitionat, impreuna cu clasele deja 
+existente in aplicatie.

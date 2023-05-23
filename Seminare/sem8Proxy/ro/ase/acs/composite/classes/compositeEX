@@ -1,0 +1,5 @@
+Managerul stadionului doreste organizarea locurilor pe care stau spectatorii intr-o structura
+arborescenta. Astfel locurile vor fi organizate in cadrul aplicatiei pe sectiuni (Tribuna, Peluza, etc)
+Fiecare sectiune contine subsectiuni (Tribuna Nord, Tribuna Sud, Tribuna Copii, VIP, etc) sau
+direct locurile din acea sectiune. Sa se realizeze modulul care permite reprezentarea arborescenta
+a locurilor spectatorilor in cadrul aplicatiei.

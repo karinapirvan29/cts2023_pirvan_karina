@@ -1,0 +1,4 @@
+6. Clientii care detin cont bancar cu card atasat, pot realiza plati online cu acel card, sau plati la
+normale cu cardul. Banca decide sa adauge o noua functionalitate cardurilor si anume plata
+ContactLess. Astfel se cere echipei IT sa implementeze un modul care sa adauge cardurilor aceasta
+noua functionalitate.

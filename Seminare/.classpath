@@ -14,5 +14,8 @@
 	<classpathentry kind="src" path="sem8Proxy"/>
 	<classpathentry kind="src" path="sem9"/>
 	<classpathentry kind="src" path="sem10"/>
+	<classpathentry kind="src" path="sem11"/>
+	<classpathentry kind="src" path="junitTests"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

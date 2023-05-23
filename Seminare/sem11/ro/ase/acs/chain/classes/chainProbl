@@ -1,0 +1,8 @@
+16. Restaurantul doreste sa anunte clientii fideli ori de cate ori apar noi oferte. Astfel se doreste
+implementarea unui modul sa notifice clientii restaurantului.
+Problema este ca restaurantul detine pentru anumiti clienti numarul de telefon, iar pentru alti
+clienti doar adresa de mail. Sa se implementeze functionalitatea de a trimite notificari clientilor
+prin SMS, iar in cazul in care pentru anumiti clienti restaurantul nu are in baza de date numarul
+de telefon, sa se trimita notificarea prin email. In cazul clientilor pentru care nu exista nici
+numarul de telefon, nici adresa de mail, se trimite managerului restaurantului o notificare cu
+numele clientului pentru care nu exista date de contact.

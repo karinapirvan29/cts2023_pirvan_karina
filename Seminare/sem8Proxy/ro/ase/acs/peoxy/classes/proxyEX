@@ -1,0 +1,3 @@
+Pentru un meci de fotbal se ia decizia ca biletele sa fie vandute doar pentru persoanele care au
+minim 14 ani. Sa se implementeze un modul intermediar pentru clasa VanzareBilet prin care
+vanzarea de bilete sa fie conditionata de varsta clientului.
