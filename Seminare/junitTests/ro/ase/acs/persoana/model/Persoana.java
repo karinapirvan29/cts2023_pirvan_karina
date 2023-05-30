@@ -1,4 +1,4 @@
-package ro.ase.acs.persoana;
+package ro.ase.acs.persoana.model;
 
 
 import java.util.Calendar;

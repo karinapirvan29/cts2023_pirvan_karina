@@ -1,4 +1,4 @@
-package ro.ase.acs.persoana;
+package ro.ase.acs.persoana.model;
 
 public interface IPersoana {
 	public String getSex();
